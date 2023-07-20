@@ -101,7 +101,7 @@
     <passive_joint name="gripper_right_motor_single_joint" />
 
     <group_state name="half_sitting" group="all">
-        <joint name="root_joint" value="0. 0. 1.01927 0. 0. 0. 1." />
+        <!-- <joint name="root_joint" value="0. 0. 1.01927 0. 0. 0. 1." /> -->
         <joint name="arm_left_1_joint" value="0.25847" />
         <joint name="arm_left_2_joint" value="0.173046" />
         <joint name="arm_left_3_joint" value="-0.0002" />

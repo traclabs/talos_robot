@@ -1,10 +1,10 @@
 find_package(rostest REQUIRED)
 find_package(catkin REQUIRED COMPONENTS
-    rbdl
+    # rbdl
     roscpp
-    pal_ros_utils
-    eigen_checks
-    math_utils
+    # pal_ros_utils
+    # eigen_checks
+    # math_utils
 )
 find_package(Eigen3 REQUIRED)
 
